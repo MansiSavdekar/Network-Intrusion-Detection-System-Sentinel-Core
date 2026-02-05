@@ -1,2 +1,2 @@
-# NIDS-Sentinal-Core
+# NIDS-Sentinel-Core
 Real Time Network Intrusion Detection System
